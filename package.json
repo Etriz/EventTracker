@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "yargs": "^17.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.1.0"
   }
 }
